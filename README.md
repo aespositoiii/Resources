@@ -1,12 +1,13 @@
 # Resources
 
-1.  [Git](https://github.com/aespositoiii/Resources/blob/master/SWTM-2088_Atlassian-Git-Cheatsheet-1.pdf) - Atlassian
-        SWTM-2088_Atlassian-Git-Cheatsheet-1.pdf
+1.  [Git](https://git-scm.com/docs)
+
+    [Cheat Sheet](https://github.com/aespositoiii/Resources/blob/master/SWTM-2088_Atlassian-Git-Cheatsheet-1.pdf) - Atlassian
 
 1.  Python and Libraries
 
     1.  [Python 3](https://docs.python.org/3/)
-    
+
         [Cheat Sheet](https://github.com/aespositoiii/Resources/blob/master/mementopython3-english.pdf) - Limsi.fr
 
     1.  Data Mining
