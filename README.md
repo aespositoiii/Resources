@@ -6,7 +6,8 @@
 1.  Python and Libraries
 
     1.  [Python 3](https://docs.python.org/3/)
-        [Python 3 Cheat Sheet](https://github.com/aespositoiii/Resources/blob/master/mementopython3-english.pdf) - Cheat Sheet - Limsi.fr
+    
+        [Cheat Sheet](https://github.com/aespositoiii/Resources/blob/master/mementopython3-english.pdf) - Limsi.fr
 
     1.  Data Mining
         1.  Scrapy
