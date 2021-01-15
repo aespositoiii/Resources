@@ -20,23 +20,23 @@
     1.  Data Processing and Modeling
         1.  [Numpy](https://numpy.org/doc/1.19/index.html)
 
-            [Cheat Sheet]() - [datacamp.com](https://www.datacamp.com/community/blog/python-numpy-cheat-sheet)
+            [Cheat Sheet](https://github.com/aespositoiii/Resources/blob/master/Numpy_Python_Cheat_Sheet.pdf) - [datacamp.com](https://www.datacamp.com/community/blog/python-numpy-cheat-sheet)
 
         1.  [SciPy](https://docs.scipy.org/doc/scipy/reference/)
 
-            [Cheat Sheet]() - [datacamp.com](https://www.datacamp.com/community/blog/python-scipy-cheat-sheet)
+            [Cheat Sheet](https://github.com/aespositoiii/Resources/blob/master/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf) - [datacamp.com](https://www.datacamp.com/community/blog/python-scipy-cheat-sheet)
 
         1.  [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
 
-            [Cheat Sheet]()
+            [Cheat Sheet](https://github.com/aespositoiii/Resources/blob/master/Pandas_Cheat_Sheet.pdf)
 
         1.  [Keras](https://keras.io/guides/functional_api/)
 
-            [Cheat Sheet]()
+            [Cheat Sheet](https://github.com/aespositoiii/Resources/blob/master/Keras_Cheat_Sheet_Python.pdf) - [datacamp.com](https://www.datacamp.com/community/blog/keras-cheat-sheet)
 
         1.  [SciKit-Learn](https://scikit-learn.org/stable/user_guide.html)
 
-            [Cheat Sheet]() - [datacamp.com](https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet)
+            [Cheat Sheet](https://github.com/aespositoiii/Resources/blob/master/Scikit_Learn_Cheat_Sheet_Python.pdf) - [datacamp.com](https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet)
 
         1.  [PyTorch](https://pytorch.org/docs/stable/index.html)
 
@@ -44,40 +44,35 @@
         
         1.  [TensorFlow](https://www.tensorflow.org/tutorials)
 
-            [Cheat Sheet]()
-
-        1.  [XGBoost]()
-
-        [Cheat Sheet]()
+        1.  [XGBoost](https://xgboost.readthedocs.io/en/latest/python/python_intro.html)
 
         1.  [scikit-image](https://scikit-image.org/)
 
     1.  Data Visualization
-        1.  [Matplotlib]()
+        1.  [Matplotlib](https://matplotlib.org/)
 
-        [Cheat Sheet]()
+            [Cheat Sheet]() - [datacamp.com](https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet)
 
-        1.  [Seaborn]()
+        1.  [Seaborn](https://seaborn.pydata.org/)
 
-        [Cheat Sheet]()
+            [Cheat Sheet]() - [datacamp.com](https://www.datacamp.com/community/blog/seaborn-cheat-sheet-python)
 
-        1.  [Bokeh]()
+        1.  [Bokeh](https://docs.bokeh.org/en/latest/)
 
-        [Cheat Sheet]()
+            [Cheat Sheet]() - [datacamp.com](https://www.datacamp.com/community/blog/bokeh-cheat-sheet-python)
 
-        1.  [Plotly]()
+        1.  [Plotly](https://plotly.com/python/)
 
-        [Cheat Sheet]()
-
-        1.  [pydot]()
-
-        [Cheat Sheet]()
+            [Cheat Sheet]()
 
 
-    1.  Credit - [dataquest.io](https://www.dataquest.io/blog/15-python-libraries-for-data-science/) - for initial library suggestions
 
-1.  [SQL](https://github.com/aespositoiii/Resources/blob/master/SQL-cheat-sheet.pdf) - sqltutorial.org
-        SQL-cheat-sheet.pdf
+
+1.  SQL
+
+    [dataquest tutorial](https://www.dataquest.io/blog/sql-basics/)
+    [codeacademy intro course](https://www.codecademy.com/learn/learn-sql)
+    [Cheat Sheet](https://github.com/aespositoiii/Resources/blob/master/SQL-cheat-sheet.pdf) - [sqltutorial.org](sqltutorial.org)
 
 1. [Markdown Sytax](https://github.com/aespositoiii/Resources/blob/master/markdown-cheatsheet-online.pdf) - Github.com
         markdown-cheatsheet-online.pdf
@@ -93,3 +88,5 @@
 ## Acknowledgements
 
 * Assif Yousef - thank you for your encouragement.
+
+* [dataquest.io](https://www.dataquest.io/blog/15-python-libraries-for-data-science/) - for initial library suggestions
