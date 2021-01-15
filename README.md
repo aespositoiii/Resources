@@ -83,7 +83,8 @@
     Walkthroughs and General Giudance
 
     1. [Daniel Bourke](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ)
-    [Daniel's Excellent Data Science/ML/AI Overview](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
+
+        [Daniel's Excellent Data Science/ML/AI Overview Roadmap](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
 
 ## Acknowledgements
 
