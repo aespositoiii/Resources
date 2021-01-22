@@ -68,8 +68,10 @@
 
 
 
-1.  SQL
+1.  SQL and Database Basics
 
+    [Entity Relationship Diagrams from LucidChart](https://www.lucidchart.com/pages/er-diagrams)
+    [Free Code Camp Tutorial by Mike Dane from Giraffe Academy](https://www.youtube.com/watch?v=HXV3zeQKqGY)
     [dataquest tutorial](https://www.dataquest.io/blog/sql-basics/)
     [codeacademy intro course](https://www.codecademy.com/learn/learn-sql)
     [Cheat Sheet](https://github.com/aespositoiii/Resources/blob/master/SQL-cheat-sheet.pdf) - [sqltutorial.org](sqltutorial.org)
