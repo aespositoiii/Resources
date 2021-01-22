@@ -8,6 +8,7 @@
 
     1.  [Python 3](https://docs.python.org/3/)
 
+        [Python Data Science Handbook by Jake Vanderplas](https://jakevdp.github.io/PythonDataScienceHandbook/)
         [Cheat Sheet](https://github.com/aespositoiii/Resources/blob/master/mementopython3-english.pdf) - [Limsi.fr](https://perso.limsi.fr/pointal/python:memento)
 
     1.  Data Mining
